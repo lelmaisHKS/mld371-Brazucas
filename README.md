@@ -1,6 +1,6 @@
 # Brazucas
 
-**Members:** Luciana, Vinicius e Sandra
+**Members:** Luciana and Vinicius
 
 **Partner organization:** LocalNews
 
