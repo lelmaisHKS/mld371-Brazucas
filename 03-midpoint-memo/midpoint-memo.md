@@ -1,6 +1,6 @@
 # Legisla — Midpoint Memo: Legislative Monitoring
 
-Oct 18, 2026 · Luciana Elmais
+Oct 18, 2026 · Luciana Elmais + Vinícius Pacífico
 
 Legislative monitoring at Legisla today is a manual chain from client strategy sheets to impact reports for funders: an intern re-types bills, consultants have to remember to flag wins, and the monitoring team checks the websites of Congress and the state legislatures by hand, even after engagements end. The *Monitor* *Legislativo* prototype already automates status collection for the Câmara and the Senado, plus ALESP through an AI route. We propose extending it across the whole chain: automatic intake of the client strategy sheets, milestone alerts confirmed by consultants, early signals from agendas, speeches and news, tracking that continues after engagements close, an impact log for funder reports, and three agents: one that finds similar bills for planning, one that finds successful laws in other democracies, and one that maps narratives across bills for Legisla’s theory of change.
 
