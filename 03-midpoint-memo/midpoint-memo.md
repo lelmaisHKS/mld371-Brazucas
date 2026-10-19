@@ -8,7 +8,7 @@ Legislative monitoring at Legisla today is a manual chain from client strategy s
 
 Today, legislative monitoring at Legisla is a chain of spreadsheets and people that starts with a client and ends in impact reports for funders. Steps 3 to 8 are manual copying, searching and checking, and that is where the Monitor upgrades the process. Mapping was quick, since Legisla’s team had already built its own map of the processes and a list of where they think agents could help, the [Mapa de Agentificação](https://claude.ai/artifact/PgU1tPsCpn7C283CB17Nqn).
 
-![Today vs. what we are building: 8 steps, frictions F1–F8, human judgment H1–H6](images/process-map.png)
+![Today vs. what we are building: 8 steps, frictions F1–F8, human judgment H1–H6](check process map image)
 
 ## 2. Categorized frictions
 
@@ -39,7 +39,7 @@ Legisla’s team built the prototype, the [Monitor Legislativo](https://script.g
 
 We are working with the team to build the final product from this prototype, iterating on it together. Section 4 lists what we will add.
 
-![How the prototype works: two routes, one checked base, two outputs](images/prototype.png)
+![How the prototype works: two routes, one checked base, two outputs](check Prototype image)
 
 ## 4. Proposed scope for the final deliverable
 
